@@ -1,0 +1,22 @@
+body 
+{
+background-size: cover;
+}
+
+canvas
+{
+border: 2px solid white;
+border-radius: 15px;
+margin-top: 130px;
+box-shadow: 6px 6px 6px orange;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(241,202,155);
+    bottom: 0;
+    width: 100%;
+    background-color: bisque;
+    line-height: 2;
+    text-align: center;
+}
